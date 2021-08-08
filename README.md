@@ -1,1 +1,1 @@
-simple react tik tac toe
+simple react tik tac toe using ReactJs
